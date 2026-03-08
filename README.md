@@ -29,3 +29,5 @@ To hide the daemon's own console window, compile with the following flags:
 go build -ldflags="-H windowsgui -s -w" -o dwm.exe main.go
 
 ```
+
+![2a29fe2f8bade0340ad0e510852a91c7](https://github.com/user-attachments/assets/2fa9d95d-4767-4b90-9238-0540f251e704)
