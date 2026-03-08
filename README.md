@@ -12,7 +12,7 @@ A high-performance Go-based daemon for **frpc** on Windows. It ensures persisten
 * **I/O Safety**: Redirects all streams to prevent pipe buffer leaks.
 * **I/O 安全**: 显式重定向输出流，防止因缓冲区溢出导致的进程挂起。
 
-## Build & Deployment / 编译与部署
+## Build / 编译
 
 **Prerequisites**: Go 1.26+
 
